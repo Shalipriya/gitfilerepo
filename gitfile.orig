@@ -1,0 +1,11 @@
+one
+two
+three
+<<<<<<< HEAD
+4
+5
+6
+||||||| merged common ancestors
+=======
+four
+>>>>>>> dev
